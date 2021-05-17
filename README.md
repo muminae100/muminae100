@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muminae100
-- 👀 I’m interested in flask and django.
-- 🌱 I’m currently learning php
+- 👀 I’m interested in python flask and APIs.
+- 🌱 I’m currently learning django. 
 - 💞️ I’m looking to collaborate on a project as junior developer to increase my level of experience.
 - 📫 How to reach me smuminaetx100@gmail.com
 
