@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muminae100
 - 👀 I’m interested in python Flask, Django, React and PHP.
 - 🌱 I’m currently learning Angular and NodeJs. 
-- 💞️ I’m looking to collaborate on a project as junior developer to increase my level of experience.
+- 💞 I am currently available for work.
 - 📫 How to reach me smuminaetx100@gmail.com
 
 <!---
