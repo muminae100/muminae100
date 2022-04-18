@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @muminae100
-- 👀 I’m interested in python Flask, Django, React and PHP.
-- 🌱 I’m currently learning Angular and NodeJs. 
-- 💞 I am currently available for work.
-- 📫 How to reach me smuminaetx100@gmail.com
+Hi there 👋
+I'm a Full Stack Developer
 
-<!---
-muminae100/muminae100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Right now enjoying:
+
+Node.JS
+Express
+React
+Python
+Django
+Flask
+
+Currently Learning a few dev languages, particularly
+
+Angular JS
+Vue Js
+PHP
+
+And Some Mobile App Development Using
+
+Ionic Framework
+React Native
+
+Am also a big fan of AI & Machine Learning. Striving to comeup/work in an awesome project that will help people, the best way possible using AI.
