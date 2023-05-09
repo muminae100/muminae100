@@ -3,8 +3,7 @@ I'm a <b>Frontend Developer</b><br />
 
 Right now enjoying:<br />
 <ul>
- <li>Node.JS</li>
- <li>Express</li>
+ <li>Next JS</li>
  <li>React JS</li>
 </ul>
 
